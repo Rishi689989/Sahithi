@@ -1,0 +1,28 @@
+{
+  "basics":{
+    "photo":"index.jpg",
+    "name":"sahithi",
+    "email":"yerasisahithireddy026@gmail.com",
+    "mobile":"9908749915"
+  },
+  "education":[
+    {
+      "course":"b-tech(CSE)",
+      "college":[
+        "gpcet","2015-2019","70"
+      ]
+    },
+    {
+    "course":"inter(MPC)",
+    "college":[
+      "chaitanya","2013-2015","90"
+    ]
+  },
+  {
+    "course":"CBSE",
+    "college":[
+      "SS","2013","80"
+    ]
+  }
+]
+}
