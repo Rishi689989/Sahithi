@@ -24,5 +24,19 @@
       "SS","2013","80"
     ]
   }
+],
+"skills":[
+  {
+  "name":"web technologies",
+  "value":"HTML,CSS"
+},
+{
+  "name":"opearting systems",
+  "value":"windows,linux"
+},
+{
+  "name":"programming languages",
+  "value":"c,c++,java"
+}
 ]
 }
